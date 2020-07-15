@@ -3,6 +3,6 @@ Alma (Back End Developer)
 Sutan (Front End Developer)
 Elang (UI Designers)
 
-CodeIgniterss
-Bootstrap
+CodeIgniter
+Bootstrapss
 JQuery
