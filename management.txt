@@ -1,7 +1,7 @@
 Bang Harzz (Back End Manager)
 Alma (Back End Developer)
 Sutan (Front End Developer)
-Elang (UI Designer)
+Elang (UI Designers)
 
 CodeIgniter
 Bootstrap
