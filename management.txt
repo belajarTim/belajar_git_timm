@@ -1,6 +1,6 @@
-Bang Harzz (Back End)
-Alma (Back End)
-Sutan (Front End)
+Bang Harzz (Back End Manager)
+Alma (Back End Developer)
+Sutan (Front End Developer)
 Elang (UI Designer)
 
 CodeIgniter
