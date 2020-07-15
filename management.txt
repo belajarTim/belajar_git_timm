@@ -2,3 +2,7 @@ Bang Harzz (Back End)
 Alma (Back End)
 Sutan (Front End)
 Elang (UI Designer)
+
+CodeIgniter
+Bootstrap
+JQuery
